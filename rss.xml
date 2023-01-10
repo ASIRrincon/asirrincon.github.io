@@ -22,7 +22,7 @@ https://asirrincon.github.io/img/home/1.png
 <item>
 <title>Software Ofimático</title>
 <description>
-En este artículo encontrará información software ofimático
+En este artículo encontrará información sobre software ofimático
 </description>
 <link>
 https://asirrincon.github.io/pages/office.html
@@ -30,6 +30,48 @@ https://asirrincon.github.io/pages/office.html
 <author>asirrincon@iesmedinaazahara.es</author>
 <category>Software Ofimático</category>
 <enclosure url="https://youtu.be/zePDWvuxDr0" type="video" length="32572719"/>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>Software de Recuperación de datos</title>
+<description>
+En este artículo encontrará información sobre software de recuperación de datos
+</description>
+<link>
+https://asirrincon.github.io/pages/recuperacion.html
+</link>
+<author>asirrincon@iesmedinaazahara.es</author>
+<category>Software de Recuperación de datos</category>
+<enclosure url="https://youtu.be/pm93oiBHkSo" type="video" length="32572719"/>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+  
+<item>
+<title>Software Aintivirus</title>
+<description>
+En este artículo encontrará información sobre software antivirus
+</description>
+<link>
+https://asirrincon.github.io/pages/antivirus.html
+</link>
+<author>asirrincon@iesmedinaazahara.es</author>
+<category>Software Antivirus</category>
+<enclosure url="https://youtu.be/64Ce3v1EPkg" type="video" length="32572719"/>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+  
+<item>
+<title>Software Portable</title>
+<description>
+En este artículo encontrará información sobre software portable
+</description>
+<link>
+https://asirrincon.github.io/pages/portable.html
+</link>
+<author>asirrincon@iesmedinaazahara.es</author>
+<category>Software Portable</category>
+<enclosure url="https://youtu.be/EsTfxrHmSJA" type="video" length="32572719"/>
 <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 </channel>
