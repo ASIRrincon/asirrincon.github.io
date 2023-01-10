@@ -1,4 +1,4 @@
-<feed xml:lang="es" xml:base="https://asirrincon.github.io/">
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://asirrincon.github.io/">
 <id>https://asirrincon.github.io/</id>
 <title>Software Ofimático mas atom</title>
 <updated>2021-12-21T19:06:00+01:00</updated>
