@@ -1,0 +1,32 @@
+<feed xml:lang="es" xml:base="https://asirrincon.github.io/">
+<id>https://asirrincon.github.io/</id>
+<title>Software Ofimático mas atom</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://asirrincon.github.io/atom.xml"/>
+<author>
+<name>Miguel Ángel Rincón</name>
+<email>asirrinconiesmedinaazahara.es</email>
+</author>
+<category term="Software Infomático"/>
+<contributor>
+<name>otro Autor</name>
+<email>otro@gmail.com</email>
+<uri>https://www.linkedin.com/in/otro</uri>
+</contributor>
+<logo>https://asirrincon.github.io/img/home/1.png</logo>
+<entry>
+<id>
+https://asirrincon.github.io/pages/office.html
+</id>
+<title>Información sobre Software ofimático</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Miguel Ángel Rincón</name>
+<email>asirrincon@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo encontraras información acerca de los softwares ofimáticos
+</summary>
+<link rel="alternate" href="https://asirrincon.github.io/pages/office.html"/>
+</entry>
+</feed>

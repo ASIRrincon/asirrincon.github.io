@@ -1,0 +1,36 @@
+<rss version="2.0">
+<channel>
+<!--Prólogo-->
+<title>Proyecto Rincón</title>
+<link>https://asirrincon.github.io</link>
+<description> Canal sobre contenidos informáticos. </description>
+<category>Inicio/Software Ofimático/Software de Recuperación de datos/Software antivirus/Software Portable</category>
+<copyright>1º ASIR - LMSGI</copyright>
+<image>
+<url>
+https://asirrincon.github.io/img/home/1.png
+</url>
+<title>Software informático</title>
+<link>https://asirrincon.github.io/</link>
+<width>30</width>
+<height>30</height>
+</image>
+<language>es-es</language>
+<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<webMaster>asirincon@gmail.com</webMaster>
+<!-- Noticias del canal -->
+<item>
+<title>Software Ofimático</title>
+<description>
+En este artículo encontrará información software ofimático
+</description>
+<link>
+https://asirrincon.github.io/pages/office.html
+</link>
+<author>asirrincon@iesmedinaazahara.es</author>
+<category>Software Ofimático</category>
+<enclosure url="https://www.youtube.com/watch?v=zePDWvuxDr0&ab_channel=MicrosoftLatinoam%C3%A9rica" type="video" length="32572719"/>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+</rss>
